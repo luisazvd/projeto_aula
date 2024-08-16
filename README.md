@@ -1,4 +1,4 @@
-### ** Projeto_Aula **
+### Projeto_Aula
 
 Repositório para registros do desenvolvimento de um sistema para gestão de notas
 
